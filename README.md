@@ -26,7 +26,7 @@ My thesis focuses on **data scraping** from various **news websites** and develo
 
 ## 🚀 Looking Forward To
 - Expanding my knowledge in **machine learning** and **AI-driven applications**.
-- Collaborating on projects related to **natural language processing** and **data science**.
+- Collaborating on projects related to **natural language processing**.
 
 ---
 
